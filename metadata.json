@@ -1,0 +1,6 @@
+{
+  "name": "SatuPortal — Landing Page Tiga Sistem",
+  "description": "Landing page terpadu dan panduan arsitektur untuk menghubungkan tiga sistem atau aplikasi terpisah ke dalam satu gerbang utama.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
